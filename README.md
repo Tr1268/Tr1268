@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Tr1268 , Im a Dev and a owner of RYFT</h2>
+<h2 align="center">Hi 👋! My name is Tr1268 , Im a Dev and a Owner of RYFT</h2>
 
 ###
 
