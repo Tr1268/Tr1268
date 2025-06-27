@@ -5,7 +5,6 @@
 
 <div align="center">
   <a href="https://discord.com/users/1142071445850161182">
-    <img src="https://lanyard.cnrad.dev/api/1142071445850161182?theme=dark&hideStatus=true" alt="Discord Presence" style="display: block; margin: auto;">
   </a>
 </div>
 
