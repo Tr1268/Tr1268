@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋! My name is Tr1268 , Im a Dev and a Owner of RYFT</h2>
-
+<h2 align="center">Hi 👋! My name is Tr1268 , Im am the owner and dev of Ryft</h2>
+<h2 align="center">C++ , C# , JAVASCRIPT , HTML , PYTHON</h2>
+<h2 align="center">Ue4 and 5 Game Developer / Graphics designer</h2>
 ###
 
 
